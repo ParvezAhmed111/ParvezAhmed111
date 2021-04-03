@@ -1,6 +1,6 @@
 <img alt="banner" src="banner.jfif">
 <h1 align="center">Hi 👋, I'm Sheikh Parvez</h1>
-<h3 align="center">I'm a B.Tech CSE undergrad, pursuing B.Tech from Sharda University. I am also a Competitive Coder, Frontend Developer and Software Developer. I love working with Data Structures and Algorithms and enjoy solving problems.</h3>
+<h3 align="center">I'm a 3rd year CSE undergrad, pursuing B.Tech from Sharda University. I am also a Competitive Coder, Frontend Developer and Software Developer. I love working with Data Structures and Algorithms and enjoy solving problems.</h3>
 
 <hr>
 
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/parvez_0947" target="blank"><img src="https://img.shields.io/twitter/follow/parvez_0947?logo=twitter&style=for-the-badge" alt="parvez_0947" /></a> <img align="right" alt="coding" width="330" src="giphy.gif"></p>
 
-&nbsp
+&nbsp;
 
 - 🌱 I’m currently learning **Mongodb, Node.js**
 
