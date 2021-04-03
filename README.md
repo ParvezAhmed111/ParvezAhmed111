@@ -1,3 +1,4 @@
+<img alt="banner" src="banner.jfif">
 <h1 align="center">Hi 👋, I'm Sheikh Parvez</h1>
 <h3 align="center">I'm a B.Tech CSE undergrad, pursuing B.Tech from Sharda University. I am also a Competitive Coder, Frontend Developer and Software Developer. I love working with Data Structures and Algorithms and enjoy solving problems.</h3>
 
