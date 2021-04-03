@@ -10,7 +10,7 @@
 
 <hr>
 
-<p align="left"> <a href="https://twitter.com/parvez_0947" target="blank"><img src="https://img.shields.io/linkedin/follow/parvezahmed111?logo=linkedin&style=for-the-badge" alt="parvez_0947" /></a> <img align="right" alt="coding" width="330" src="giphy.gif"></p>
+<p align="left"> <a href="https://twitter.com/parvez_0947" target="blank"><img src="https://img.shields.io/twitter/follow/parvez_0947?logo=twitter&style=for-the-badge" alt="parvez_0947" /></a> <img align="right" alt="coding" width="330" src="giphy.gif"></p>
 
 &nbsp
 
