@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parvez_0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parvez_0947" height="30" width="40" /></a>
+<a href="https://twitter.com/parvez_0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parvez_0947" height="30" width="40" color="red"/></a>
 <a href="https://linkedin.com/in/parvezahmed111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parvezahmed111" height="30" width="40" /></a>
 <a href="https://fb.com/parvezahmed0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="parvezahmed0947" height="30" width="40" /></a>
 <a href="https://instagram.com/iamparvezahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamparvezahmed" height="30" width="40" /></a>
