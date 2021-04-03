@@ -37,4 +37,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&theme=material-palenight&locale=en" alt="parvezahmed111" /><img align="left" alt="programmer" width="250" src="programmer.gif"></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111&theme=material-palenight" alt="parvezahmed111"/><img align="right" alt="curious" width="250" src="curious.gif"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111&theme=material-palenight" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
+<hr>
