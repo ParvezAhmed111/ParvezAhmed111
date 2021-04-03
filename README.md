@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheikh Parvez</h1>
 <h3 align="center">I'm a B.Tech CSE undergrad, pursuing B.Tech from Sharda University. I am also a Competitive Coder, Frontend Developer and Software Developer. I love working with Data Structures and Algorithms and enjoy solving problems.</h3>
-<img align="right" alt="coding" width="340" src="giphy.gif">
+<img align="right" alt="coding" width="330" src="giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" /> </p>
 
