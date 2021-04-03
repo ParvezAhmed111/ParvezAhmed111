@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/parvez_0947" target="blank"><img src="https://img.shields.io/twitter/follow/parvez_0947?logo=twitter&style=for-the-badge" alt="parvez_0947" /></a> </p>
-<img align="right" alt="coding" width="330" src="giphy.gif">
+<p align="left"> <a href="https://twitter.com/parvez_0947" target="blank"><img src="https://img.shields.io/twitter/follow/parvez_0947?logo=twitter&style=for-the-badge" alt="parvez_0947" /></a> <img align="right" alt="coding" width="330" src="giphy.gif"></p>
+
 &nbsp
 
 - 🌱 I’m currently learning **Mongodb, Node.js**
