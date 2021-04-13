@@ -38,7 +38,7 @@
 <a href="https://www.hackerrank.com/parvezahmed_0947"><img alt="linkedin" width="7%" style="padding:5px" src="hackerrank.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack: </h3>
 <p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a> &ensp;
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> &ensp;
