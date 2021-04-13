@@ -1,5 +1,5 @@
 <img alt="banner" src="banner.jfif">
-<h1 align="center">Hi 👋, I'm Parvez</h1>
+<h1 align="center">Hi <img alt="GIF" src="wave-hand.gif" width="7%" />, I'm Parvez</h1>
 <h3 align="center">I'm a Competitive Programmer, a Web Developer and a Software Developer. <br> I am passionate about Data Structures and Algorithms and enjoy solving problems.</h3>
 
 <hr>
@@ -10,7 +10,7 @@
 
 - <img alt="GIF" src="Developer.gif" width="25" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
-- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like exploring **new Algoritms**
+- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like exploring **new Algorithms**
 
 - <img alt="GIF" src="message.gif" width="25" /> &nbsp; Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
 
