@@ -16,7 +16,7 @@
 
 - <img alt="GIF" src="letterbox.gif" width="25" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
-- &nbsp;<img alt="GIF" src="lightning.gif" width="12" /> &nbsp;&nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
+- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="13" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
 <hr>
 
@@ -69,5 +69,9 @@
 <h3 align="left">GitHub Activity Graph:</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parvezahmed111&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+<hr>
+
+<img src="dino.gif?raw=true" />
 
 <hr>
