@@ -29,6 +29,12 @@
 <a href="https://twitter.com/parvez_0947"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
+<h3 align="left">My coding profiles:</h3>
+<p align="center">
+<a href="https://www.codechef.com/users/parvez_98"><img alt="github" width="7%" style="padding:5px" src="codechef.png"/></a>
+<a href="https://www.hackerrank.com/parvezahmed_0947"><img alt="linkedin" width="7%" style="padding:5px" src="hackerrank.png"/></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a> 
