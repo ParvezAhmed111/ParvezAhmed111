@@ -13,7 +13,7 @@
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring **new Algorithms**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **C++, Python, Data Structures and Algo., HTML, CSS, JavaScript**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
