@@ -7,7 +7,7 @@
 
 <hr>
 
-<img align="right" alt="programmer" width="400" src="programmer.gif">
+<img align="right" alt="programmer" width="350" src="programmer.gif">
 
 - <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
