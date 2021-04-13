@@ -1,6 +1,6 @@
 <img alt="banner" src="banner.jfif">
-<h1 align="center">Hi 👋, I'm Sheikh Parvez</h1>
-<h3 align="center">Competitive Programmer <br> Frontend Developer <br>Software Developer. <br> I love working with Data Structures and Algorithms and enjoy solving problems.</h3>
+<h1 align="center">Hi 👋, I'm Parvez</h1>
+<h3 align="center">I'm a Competitive Programmer, a Web Developer and a Software Developer. <br> I am passionate about Data Structures and Algorithms and enjoy solving problems.</h3>
 
 <hr>
 
