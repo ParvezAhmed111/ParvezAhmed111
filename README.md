@@ -4,16 +4,8 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
-
-<hr>
-
-
-<img align="right" alt="coding" width="330" src="giphy.gif">
-
-&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" /> <img align="right" alt="coding" width="330" src="giphy.gif"> </p>
 
 - 🌱 I’m currently learning **Mongodb, Node.js**
 
@@ -51,6 +43,11 @@
 	<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
 	
 </p>
+
+<hr>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
 	
 	
 	
