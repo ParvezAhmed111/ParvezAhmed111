@@ -23,17 +23,12 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parvez_0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parvez_0947" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/parvezahmed111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parvezahmed111" height="30" width="40" /></a>
-<a href="https://fb.com/parvezahmed0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="parvezahmed0947" height="30" width="40" /></a>
-<a href="https://instagram.com/iamparvezahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamparvezahmed" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parvez_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parvez_98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/parvezahmed_0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="parvezahmed_0947" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parvezahmed.0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="parvezahmed.0947" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3407z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user3407z" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@parvezahmed.0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@parvezahmed.0947" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parvezahmed0947" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="parvezahmed0947" height="30" width="40" /></a>
+<p align="center">
+	<a href="https://github.com/ParvezAhmed111"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/parvezahmed111/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/ParvezAhmed0947/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/iamparvezahmed/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/parvez_0947"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
