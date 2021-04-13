@@ -9,15 +9,15 @@
 
 <img align="right" alt="coding" width="330" src="giphy.gif">
 
-- <img alt="GIF" src="Developer.gif" width="25" /> &nbsp; I’m currently learning **Mongodb, Node.js**
+- <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
-- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like exploring **new Algorithms**
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring **new Algorithms**
 
-- <img alt="GIF" src="message.gif" width="25" /> &nbsp; Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
 
-- <img alt="GIF" src="letterbox.gif" width="25" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
+- <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
-- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="13" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
+- &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
 <hr>
 
