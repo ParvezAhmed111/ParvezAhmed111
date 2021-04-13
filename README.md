@@ -19,6 +19,7 @@
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
 - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
+
 &nbsp;
 <hr>
 
