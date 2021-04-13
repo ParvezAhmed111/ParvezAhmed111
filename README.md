@@ -7,9 +7,8 @@
 
 <hr>
 
-<img align="right" alt="programmer" width="360" src="programmer.gif">
+<img align="right" alt="programmer" width="350" src="programmer.gif">
 
-&nbsp;
 
 - <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
@@ -21,8 +20,6 @@
 
 - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
-
-&nbsp;
 <hr>
 
 
