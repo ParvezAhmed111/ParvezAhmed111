@@ -1,9 +1,5 @@
 <img alt="banner" src="banner.jfif">
-<h3 align="left">GitHub Activity Graph:</h3>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parvezahmed111&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
-<hr>
 <h1 align="center">Hi <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Parvez</h1>
 <h3 align="center">I'm a Competitive Programmer, a Web Developer and a Software Developer. <br> I am passionate about Data Structures and Algorithms and enjoy solving problems.</h3>
 
@@ -79,6 +75,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
 
+<h3 align="left">GitHub Activity Graph:</h3>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parvezahmed111&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+<hr>
 
 
 <img src="dino.gif?raw=true" />
