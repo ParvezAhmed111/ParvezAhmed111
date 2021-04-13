@@ -9,7 +9,7 @@
 
 <img align="right" alt="programmer" width="350" src="programmer.gif">
 
-
+&nbsp;
 - <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring **new Algorithms**
@@ -19,7 +19,7 @@
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
 - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
-
+&nbsp;
 <hr>
 
 
