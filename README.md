@@ -5,7 +5,8 @@
 <hr>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" /> <img align="right" alt="coding" width="330" src="giphy.gif"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" />  </p>
+<img align="right" alt="coding" width="330" src="giphy.gif">
 
 - <img alt="GIF" src="Developer.gif" width="25" /> I’m currently learning **Mongodb, Node.js**
 
