@@ -7,7 +7,7 @@
 
 <hr>
 
-<img align="right" alt="programmer" width="400" src="programmer.gif">
+<img align="right" alt="programmer" width="370" src="programmer.gif">
 
 &nbsp;
 
@@ -21,7 +21,7 @@
 
 - &nbsp;&nbsp;<img alt="GIF" src="lightning.gif" width="15" /> &nbsp;&nbsp; Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
-&nbsp;
+
 &nbsp;
 <hr>
 
