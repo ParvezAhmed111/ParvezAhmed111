@@ -7,7 +7,7 @@
 
 <hr>
 
-<img align="right" alt="programmer" width="370" src="programmer.gif">
+<img align="right" alt="programmer" width="360" src="programmer.gif">
 
 &nbsp;
 
