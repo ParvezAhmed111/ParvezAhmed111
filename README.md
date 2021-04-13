@@ -27,6 +27,8 @@
 <a href="https://www.facebook.com/ParvezAhmed0947/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 <a href="https://www.instagram.com/iamparvezahmed/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 <a href="https://twitter.com/parvez_0947"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+<a href="https://discordapp.com/users/Sheikh Parvez Ahmed#8768/"><img alt="twitter" width="10%" style="padding:5px" src="discord.png"/></a>
+
 </p>
 
 <h3 align="left">My coding profiles:</h3>
