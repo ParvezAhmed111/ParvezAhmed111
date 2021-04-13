@@ -7,7 +7,7 @@
 
 <hr>
 
-<img align="right" alt="coding" width="330" src="giphy.gif">
+<img align="right" alt="programmer" width="400" src="programmer.gif">
 
 - <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
@@ -70,7 +70,7 @@
 
 <p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvezahmed111&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  alt="tech" width="250" height="150" src="tech.gif"></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /><img align="left" alt="programmer" width="250" src="programmer.gif"></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /><img align="left" alt="typing-cat" width="250" src="typing-cat.gif"></p>
  
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ParvezAhmed111&theme=flag-india" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
