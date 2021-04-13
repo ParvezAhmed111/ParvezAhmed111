@@ -46,7 +46,7 @@
 
 <hr>
 
-
+<h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
 	
 	
@@ -58,5 +58,9 @@
  
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
+<h3 align="left">GitHub Activity Graph:</h3>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parvezahmed111&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+<hr>
