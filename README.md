@@ -9,7 +9,7 @@
 
 - <img alt="GIF" src="Developer.gif" width="25" /> I’m currently learning **Mongodb, Node.js**
 
-- <img alt="GIF" src="hyperkitty.gif" width="2" /> I like exploring **Algoritms**
+- <img alt="GIF" src="hyperkitty.gif" width="20" /> I like exploring **new Algoritms**
 
 - <img alt="GIF" src="message.gif" width="25" /> Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
 
