@@ -9,13 +9,13 @@
 
 - <img alt="GIF" src="Developer.gif" width="25" /> I’m currently learning **Mongodb, Node.js**
 
-- <img alt="GIF" src="hyperkitty.gif" width="25" /> I like exploring **Algoritms**
+- <img alt="GIF" src="hyperkitty.gif" width="2" /> I like exploring **Algoritms**
 
 - <img alt="GIF" src="message.gif" width="25" /> Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
 
-- <img alt="GIF" src="telegram.gif" width="25" /> How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
+- <img alt="GIF" src="letterbox.gif" width="25" /> How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
 
-- <img alt="GIF" src="lightning.gif" width="25" /> Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
+- <img alt="GIF" src="lightning.gif" width="12" /> Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
 <hr>
 
