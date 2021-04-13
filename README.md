@@ -59,7 +59,7 @@
 <hr>
 <h3 align="left">My Stats:</h3>
 
-<p>&emsp;&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvezahmed111&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  alt="tech" width="250" height="150" src="tech.gif"></p>
+<p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvezahmed111&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  alt="tech" width="250" height="150" src="tech.gif"></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /><img align="left" alt="programmer" width="250" src="programmer.gif"></p>
  
