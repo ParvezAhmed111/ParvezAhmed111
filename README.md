@@ -41,7 +41,7 @@
 <hr>
 <p>&nbsp;<img align="center" alt="tech" width="350" height="150" src="tech.gif"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&theme=material-palenight&locale=en" alt="parvezahmed111" /><img align="left" alt="programmer" width="250" src="programmer.gif"></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111" /><img align="left" alt="programmer" width="250" src="programmer.gif"></p>
  
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111&theme=material-palenight" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=parvezahmed111&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="parvezahmed111"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
