@@ -11,12 +11,14 @@
 
 - 💬 Ask me about **C++, Python, Data Structures and Algorithm, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **parvezahmed.0947@gmail.com**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/parvezahmed111/"> LinkedIn</a>**
+
+- ⚡ Fun fact: **Crack it to know-> .. / .- -- / .- / -.-. .... . ..-.**
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://github.com/ParvezAhmed111"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/parvezahmed111/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/ParvezAhmed0947/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
@@ -25,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a> 
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
 	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
@@ -47,7 +49,7 @@
 <hr>
 
 <h3 align="left">GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvezahmed111" alt="parvezahmed111" /></a> </p>
 	
 	
 	
