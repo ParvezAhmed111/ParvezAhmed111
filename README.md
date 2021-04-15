@@ -23,7 +23,6 @@
 &nbsp;
 <hr>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/ParvezAhmed111"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
