@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parvezahmed111&label=Profile%20views&color=0e75b6&style=flat" alt="parvezahmed111" />  </p>
 
 <h1 align="center">Hi <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Parvez</h1>
-<h3 align="center">I'm a Competitive Programmer, a Web Developer and a Software Developer. <br> I am passionate about Data Structures and Algorithms and I enjoy solving problems.</h3>
+<h3 align="center">I'm a Competitive Programmer, a Web Developer and a Software Developer. <br> I am passionate about Data and Algorithms and I enjoy solving problems.</h3>
 
 <hr>
 
