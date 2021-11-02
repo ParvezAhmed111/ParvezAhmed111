@@ -39,6 +39,7 @@
 <p align="center">
 <a href="https://www.codechef.com/users/parvez_98"><img alt="github" width="7%" style="padding:5px" src="codechef.png"/></a>
 <a href="https://www.hackerrank.com/parvezahmed_0947"><img alt="linkedin" width="7%" style="padding:5px" src="hackerrank.png"/></a>
+<a href="https://leetcode.com/ParvezAhmed111/"><img alt="leetcode" width="7%" style="padding:5px" src="leetcode.png"/></a>
 </p>
 
 <h3 align="left">My Tech Stack: </h3>
